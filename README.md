@@ -8,5 +8,5 @@
 
 🌱 Feel free to explore my repositories to gain insights into my development approach and see how my skills have evolved over time. If you have any questions or are interested in collaborating, please don't hesitate to reach out.
 
-📫 Thank you for visiting! You can also check out live demo of my [portfolio page](https://asar-portfolio.netlify.app) to see more of my work.
+📫 Thank you for visiting! You can also check out live demo of my [portfolio page](https://asar-portfolio.netlify.app){:target="_blank"} to see more of my work.
 
